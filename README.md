@@ -2,7 +2,7 @@
 
 A small deep learning project: a convolutional neural network (CNN) that looks at a face photo and predicts the person's **age**, plus a Streamlit app where you can take a photo with your camera or upload one.
 
-**Live app:** APP_LINK
+**Live app:** [APP_LINK](https://age-prediction-conv-nn.streamlit.app/)
 
 ## Dataset
 [UTKFace](https://www.kaggle.com/datasets/jangedoo/utkface-new): 23,708 cropped face photos with the age in the file name (`age_gender_race_date.jpg`).
